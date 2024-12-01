@@ -132,7 +132,7 @@ def main():
     st.set_page_config(page_title="AI Document Assistant", page_icon="🤖", layout="wide")
     st.title("🤖 Chat with PDFs using Llama3")
     
-    st.sidebar.image("https://th.bing.com/th/id/OIP.tZ0EH_Yi857WlxDiKDr6nAHaE7?w=255&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7", use_column_width=True)
+    st.sidebar.image("https://th.bing.com/th/id/OIP.tZ0EH_Yi857WlxDiKDr6nAHaE7?w=255&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7", use_container_width=True)
     
     system_prompt = st.sidebar.text_area(
         "System Prompt",
@@ -143,7 +143,7 @@ def main():
    
     embedding_model_name = "llama3:instruct"
     llm_model = "llama3:instruct" 
-    vector_store_path = st.sidebar.text_input("📁 Vector Store Path:", "../data/vectorstore/my_store")
+    vector_store_path = st.sidebar.text_input("📁 Vector Store Path:", "../vectorstore/my_store")
 
     chunk_text = True
     chunk_size = 1000 
