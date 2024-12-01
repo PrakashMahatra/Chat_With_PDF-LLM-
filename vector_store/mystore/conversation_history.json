@@ -1,0 +1,340 @@
+[
+    {
+        "question": "when was world war 1 started?",
+        "answer": "I don't know. The provided context does not mention the specific date or year that World War I started. It only discusses its consequences and effects on various countries, societies, and political systems.",
+        "timestamp": "2024-09-07 20:33:06",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            }
+        ]
+    },
+    {
+        "question": "in which year world war started?",
+        "answer": "I don't know. The text does not provide the specific year when World War I started.",
+        "timestamp": "2024-09-07 20:45:52",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            }
+        ]
+    },
+    {
+        "question": "which countries involved in this war?",
+        "answer": "Based on the provided context, the countries involved in World War I were:\n\n* Britain (including its colony India)\n* Germany and its allies\n* Russia (which later became the Soviet Union)\n* United States\n* Austria-Hungary\n* Ottoman Empire (which eventually became Turkey)\n* France\n* Poland\n* Countries in the Middle East\n\nPlease note that this is not an exhaustive list, as the context only provides information on certain countries and their involvement in the war.",
+        "timestamp": "2024-09-07 20:51:22",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            }
+        ]
+    },
+    {
+        "question": "who ruled germany?",
+        "answer": "According to the provided context, Germany was ruled by an empire during World War I. The text mentions that India contributed soldiers to fight against \"the German Empire\" in East Africa and on the Western Front.",
+        "timestamp": "2024-09-07 20:53:02",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    },
+    {
+        "question": "which countries were fighting in the war?",
+        "answer": "According to the provided context, the following countries were involved in World War I:\n\n* Germany\n* Britain (and its colony India)\n* Austria-Hungary\n* Italy\n* France\n* Russia\n* United States\n\nNote that this information is based on the text provided and might not be an exhaustive list of all countries involved in the war.",
+        "timestamp": "2024-09-07 22:16:31",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    },
+    {
+        "question": "can you tell me what this pdf is about?",
+        "answer": "Based on the context provided, I can help answer your question! The PDF appears to be discussing World War I (WWI) and its consequences. It covers topics such as India's role in the war, the creation of the League of Nations, political changes after the war, and social changes brought about by the conflict.",
+        "timestamp": "2024-09-09 22:03:28",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            }
+        ]
+    },
+    {
+        "question": "from which year did the world war 1 started?",
+        "answer": "I don't know. The text does not provide information on the starting year of World War I.",
+        "timestamp": "2024-09-09 22:05:27",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            }
+        ]
+    },
+    {
+        "question": "how may r's are there in the word strawberry?",
+        "answer": "I don't know! The provided context doesn't mention strawberries or any related information, so I can't answer this question.",
+        "timestamp": "2024-09-09 22:06:54",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            }
+        ]
+    },
+    {
+        "question": "who won the world war 1?",
+        "answer": "Based on the provided context, it can be concluded that the Allies (which included the United States, Britain, France, and others) won World War I.",
+        "timestamp": "2024-09-09 22:07:56",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            }
+        ]
+    },
+    {
+        "question": "who participated in the war",
+        "answer": "According to the provided context, the main members of the Allied Powers were:\n\n* France\n* Russia (until 1917)\n* Britain\n* United States (after 1917)\n\nAnd the main members of the Central Powers were:\n\n* Germany\n* Austria-Hungary\n* Ottoman Empire\n* Bulgaria",
+        "timestamp": "2024-09-11 23:27:52",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 1
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 5
+                }
+            }
+        ]
+    },
+    {
+        "question": "give me a summary of this document.",
+        "answer": "Based on the provided context, here is a summary of the document:\n\nThe text discusses the consequences of World War I. The war led to significant changes in society, politics, and economy. Women played a greater role in replacing men in factories and offices, and many countries gave them more rights, including the right to vote. Monarchies were abolished, and new countries emerged from old empires. Socially, birth rates declined due to massive losses of young men, and civilians lost their land and fled to other countries. The war also had significant consequences for colonial powers like Britain, which raised men, money, and supplies from India in exchange for promises of self-rule that were ultimately not fulfilled. Overall, the document highlights the far-reaching effects of World War I on society, politics, and economy.",
+        "timestamp": "2024-09-11 23:41:55",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            }
+        ]
+    },
+    {
+        "question": "when was the war started?",
+        "answer": "I don't know. The provided text does not mention the start date of World War I.",
+        "timestamp": "2024-12-01 21:14:45",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 4
+                }
+            }
+        ]
+    },
+    {
+        "question": "which countries were fighting?",
+        "answer": "According to the context, the main countries involved in World War I were:\n\n* Germany and its allies (which included Austria-Hungary and Italy)\n* Britain and its allies (which included France, Russia, India, etc.)\n\nIt's also mentioned that India contributed a large number of soldiers to fight alongside Britain on various fronts.",
+        "timestamp": "2024-12-01 21:15:52",
+        "llm_model": "llama3:instruct",
+        "source_documents": [
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 6
+                }
+            },
+            {
+                "metadata": {
+                    "source": "world war 1.pdf",
+                    "page_number": 1
+                }
+            }
+        ]
+    }
+]
